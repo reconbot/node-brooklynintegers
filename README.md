@@ -10,6 +10,4 @@ var bynt = require('brooklynintegers');
 bynt(function(err, bynteger){
   console.log('Your handcrafted artisanally made brooklyn integer is: ' + bynteger);
 });
-#null 35352967
-
 ````
