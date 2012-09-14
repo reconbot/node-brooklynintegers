@@ -1,7 +1,7 @@
 brooklynintegers
 ===
 
-NodeJS api for brooklynintegers.com the Hella-beautiful artisanally hand-crafted integers as a service.
+NodeJS api for http://www.brooklynintegers.com the Hella-beautiful artisanally hand-crafted integers as a service.
 
 No affiliation with http://www.missionintegers.com/
 
