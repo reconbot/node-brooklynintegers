@@ -1,0 +1,19 @@
+{
+  "name": "brooklynintegers",
+  "version": "0.0.1",
+  "description": "NodeJS api for brooklynintegers.com the Hella-beautiful artisanally hand-crafted integers as a service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/node-brooklynintegers.git"
+  },
+  "keywords": [
+    "integers",
+    "artisanal"
+  ],
+  "author": "Francis Gulotta",
+  "license": "BSD"
+}
