@@ -17,7 +17,7 @@
   "author": "Francis Gulotta",
   "license": "BSD",
   "dependencies": {
-    "request": "~2.81.0"
+    "request": "~2.84.0"
   },
   "devDependencies": {
     "tap": "~0.3.1"
